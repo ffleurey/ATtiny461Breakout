@@ -1,4 +1,5 @@
-# ATtiny461Breakout
+# ATtiny261 / ATtiny461 / ATtiny861 Breakout Board
+
 This repo contains a minimalistic breakout board for the ATtiny261, ATtiny461 and ATtiny861 in SOIC package. The board is designed to put out all the pins of the chip on a breadboard friendly form factor. For convinience the board includes:
 * a power indicator LED,
 * a pullup resistor on the reset pin, 
