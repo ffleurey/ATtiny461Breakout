@@ -3,7 +3,7 @@ This repo contains a minimalistic breakout board for the ATtiny261, ATtiny461 an
 * a power indicator LED,
 * a pullup resistor on the reset pin, 
 * an LED connected to digital IO PA7,
-* an ISP programming header [Tuxgraphics style](http://www.tuxgraphics.org/electronics/200901/tuxgraphics-isp-header.shtml).
+* an ISP programming header ([Tuxgraphics style](http://www.tuxgraphics.org/electronics/200901/tuxgraphics-isp-header.shtml)).
 
 Here is the shematics of the board:
 
